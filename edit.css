@@ -1,9 +1,12 @@
 p1{
     font-family: 'Courier New', Courier, monospace
-
 }
 
 
 p2{
     font-family: 'Times New Roman', Times, serif
+}
+
+body {
+    background-image: url("fat.jpeg");
 }
