@@ -5,6 +5,7 @@ p1{
 
 p2{
     font-family: 'Times New Roman', Times, serif
-    p.dotted {border-style: dotted;}
+    border-style: solid;
+    border-width: 5px;
 
 }
